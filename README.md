@@ -1,6 +1,6 @@
 
 <div align="center" >
- <img src="https://github-profile-trophy.vercel.app/?username=lhuanalee&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=lhuanalee&row=1&column=4&theme=dracula&margin-w=15&margin-h=15"/>
 </div>
 
  <br />
@@ -12,4 +12,4 @@
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lhuanalee&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lhuanalee&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
-![Snake animation](https://github.com/lhuanalee/isaac545454/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lhuanalee/lhuanalee/blob/output/github-contribution-grid-snake.svg)
