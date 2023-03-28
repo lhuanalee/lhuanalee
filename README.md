@@ -42,17 +42,19 @@ Aqui abaixo estarei deixando alguns links onde vocês poderão me encontrar. Ah,
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lhuanalee&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lhuanalee&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
-<div align="center">
+<div display="block" align="center">
   <a href="https://github.com/lhuanalee">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=lhuanalee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhuanalee&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=lhuanalee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhuanalee&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 <div style="display: inline_block">
 
  
- 
+ <div align="center">
  ![Snake animation](https://github.com/lhuanalee/lhuanalee/blob/output/github-contribution-grid-snake.svg)
+ </div>
+
  
 
 
