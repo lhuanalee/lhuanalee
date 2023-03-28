@@ -7,7 +7,7 @@ Tecnologias: HTML5 | CSS3 | Sass | JavaScript (ES6+) | API REST | React | Hooks 
 Aqui abaixo estarei deixando alguns links onde vocês poderão me encontrar. Ah, sintam-se à vontade para conhecer meus projetos, estou aberta à sugestões e feedbacks! ^^ 
 
 <div align="center" >
- <img src="https://github-profile-trophy.vercel.app/?username=lhuanalee&row=1&column=4&theme=dracula&margin-w=15&margin-h=15"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=lhuanalee&row=1&column=4&theme=dracula&margin-w=20&margin-h=20"/>
 </div>
 
  <br />
@@ -43,10 +43,10 @@ Aqui abaixo estarei deixando alguns links onde vocês poderão me encontrar. Ah,
   <a href="https://www.youtube.com/channel/UCzQnGw2lG34fYiftMl21ksg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
  
- <div display="flex">
+ 
  ![Snake animation](https://github.com/lhuanalee/lhuanalee/blob/output/github-contribution-grid-snake.svg)
  <img align="right" alt="Lua" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/E58qSk6X0AEW-lK?format=jpg&name=small">
- </div>
+
 
 
 
