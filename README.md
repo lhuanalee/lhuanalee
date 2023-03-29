@@ -27,6 +27,8 @@ Aqui abaixo estarei deixando alguns links onde vocês poderão me encontrar. Ah,
 
 </div>
 
+<br>
+
 <div align="center" >
  <img src="https://github-profile-trophy.vercel.app/?username=lhuanalee&row=1&column=4&theme=dracula&margin-w=20&margin-h=20"/>
 </div>
