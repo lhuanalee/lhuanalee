@@ -42,7 +42,7 @@ Aqui abaixo estarei deixando alguns links onde vocês poderão me encontrar. Ah,
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lhuanalee&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lhuanalee&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
-<div display="block">
+<div align="center">
   <a display="flex" align="center" href="https://github.com/lhuanalee">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=lhuanalee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhuanalee&layout=compact&langs_count=7&theme=dracula"/>
