@@ -15,15 +15,15 @@ Aqui abaixo estarei deixando alguns links onde vocês poderão me encontrar. Ah,
   
 </div>
   
-  ##
+ ##
  
 <div align="center"> 
  
-  <a href="https://discord.gg/hETJNb9caz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leelhuana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/devemprogresso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/lhuanalee/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.youtube.com/channel/UCzQnGw2lG34fYiftMl21ksg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/hETJNb9caz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href = "mailto:leelhuana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/devemprogresso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lhuanalee/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.youtube.com/channel/UCzQnGw2lG34fYiftMl21ksg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 </div>
 
@@ -33,7 +33,7 @@ Aqui abaixo estarei deixando alguns links onde vocês poderão me encontrar. Ah,
  <img src="https://github-profile-trophy.vercel.app/?username=lhuanalee&row=1&column=4&theme=dracula&margin-w=20&margin-h=20"/>
 </div>
 
- <br />
+<br>
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -47,13 +47,9 @@ Aqui abaixo estarei deixando alguns links onde vocês poderão me encontrar. Ah,
   <img height="165px" src="https://github-readme-stats.vercel.app/api?username=lhuanalee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhuanalee&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- 
-<div style="display: inline_block">
 
- 
- <div align="center">
- ![Snake animation](https://github.com/lhuanalee/lhuanalee/blob/output/github-contribution-grid-snake.svg)
- </div>
+![Snake animation](https://github.com/lhuanalee/lhuanalee/blob/output/github-contribution-grid-snake.svg)
+
 
  
 
