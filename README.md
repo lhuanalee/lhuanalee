@@ -49,3 +49,9 @@ Aqui abaixo estarei deixando alguns links onde vocês poderão me encontrar. Ah,
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lhuanalee&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lhuanalee&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
+ 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
