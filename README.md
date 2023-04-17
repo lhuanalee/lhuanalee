@@ -49,6 +49,3 @@ Aqui abaixo estarei deixando alguns links onde vocês poderão me encontrar. Ah,
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lhuanalee&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lhuanalee&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
-
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.2.1
